@@ -1,7 +1,7 @@
 ### Olá!! Bem Vindo, Me Chamo Vinicius Marcos 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://www.linkedin.com/in/vinicius-marcos-fialho-48b3b3256/">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=ViniciusFialhus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFialhus&layout=compact&langs_count=7&theme=dracula"/>
 </div>
