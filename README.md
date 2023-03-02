@@ -1,5 +1,6 @@
+
 ### Olá!! Bem Vindo, Me Chamo Vinicius Marcos 
-                                                                         ---
+                                                                         
 Apaixonado pela resolução de problemas que a tecnologia traz e apreciador do vatapá cearense. 
 
 Me chamo Vinicius e decidi me aventurar pelo mundo da tecnologia desde cedo. Quando mais novo sempre tentei encontrar soluções para os meus problemas, mas a falta de informação acabava me parando.
@@ -8,7 +9,8 @@ Em 2022 tive a oportunidade de ingressar na escola Cubos Academy para desenvolve
 
 Tenho interesse em atuar como Desenvolvedor de Software Web Back-End ou Front-End 
 
-                                                                          ---
+<br>
+                                                                          
 
 
 
