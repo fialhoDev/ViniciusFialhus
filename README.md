@@ -31,6 +31,7 @@ Tenho interesse em atuar como Desenvolvedor de Software Web Back-End ou Front-En
   
   
   </div> 
+  <br>
  
   <a href="https://www.instagram.com/vinicius_fialhu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoviniciusfialhu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
