@@ -8,6 +8,11 @@ Em 2022 tive a oportunidade de ingressar na escola Cubos Academy para desenvolve
 
 Tenho interesse em atuar como Desenvolvedor de Software Web Back-End ou Front-End
 
+
+
+
+
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusFialhus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </br>
