@@ -1,13 +1,11 @@
 
 ### Olá!! Bem Vindo, Me Chamo Vinicius Marcos 
                                                                          
-Apaixonado pela resolução de problemas que a tecnologia traz e apreciador do vatapá cearense. 
+Desde cedo, a programação sempre me fascinou. Sou apaixonado pela complexidade dessa área e pela gratificação de resolver problemas através do código.
 
-Me chamo Vinicius e decidi me aventurar pelo mundo da tecnologia desde cedo. Quando mais novo sempre tentei encontrar soluções para os meus problemas, mas a falta de informação acabava me parando.
+Em 2022, tive a oportunidade de iniciar minha jornada na Cubos Academy, onde pude desenvolver conhecimento e adquirir experiência. Atualmente, estou formado e possuo habilidades sólidas em HTML, CSS, JavaScript, Node.js, React e outras tecnologias relacionadas.
 
-Em 2022 tive a oportunidade de ingressar na escola Cubos Academy para desenvolver conhecimento e experiência. Atualmente continuo em formação estudando HTML, CSS, JavaScript, Node.js, React... 
-
-Tenho interesse em atuar como Desenvolvedor de Software Web Back-End ou Front-End 
+Estou capacitado para atuar como Desenvolvedor de Software Web tanto no Back-End quanto no Front-End.
 
 <br>
                                                                           
